@@ -5,19 +5,13 @@
 
 ### VeryLazyTech Hacking Guide
 
-Comprehensive hacking and bug bounty learning materials.
-
 🔗 https://www.verylazytech.com/
 
 ### How To Hunt
 
-A collection of practical bug bounty hunting guides and methodologies.
-
 🔗 https://kathan19.gitbook.io/howtohunt
 
 ### HackTricks
-
-Cybersecurity knowledge base with practical attack techniques and security testing methods.
 
 🔗 https://hacktricks.wiki/en/index.html
 
@@ -27,15 +21,15 @@ Cybersecurity knowledge base with practical attack techniques and security testi
 
 ### Bugreader
 
-Read high-quality bug bounty reports and security research articles.
-
 🔗 https://bugreader.com/
 
 ### HackerOne Top Disclosed Reports
 
-Collection of publicly disclosed HackerOne reports.
-
 🔗 https://github.com/reddelexc/hackerone-reports
+
+### BugBountyHunting.com
+
+🔗 https://www.bugbountyhunting.com/
 
 ---
 
@@ -43,13 +37,9 @@ Collection of publicly disclosed HackerOne reports.
 
 ### Bug Bounty Directory
 
-Directory of bug bounty programs and responsible disclosure policies.
-
 🔗 https://www.bugbountydirectory.com/
 
 ### Bug Bounties
-
-Directory of bug bounty programs from companies worldwide.
 
 🔗 https://bug-bounties.as93.net/
 
@@ -59,27 +49,25 @@ Directory of bug bounty programs from companies worldwide.
 
 ### Deep Google Search - Bug Bounty
 
-Advanced Google dorking and reconnaissance techniques.
-
 🔗 https://adce626.github.io/adce/
 
 ---
 
-## Community Resources
+## Bug Bounty Forums
 
-### BugBountyHunting.com
+### Bug Bounty Forum
 
-Community-curated bug bounty resources and writeups.
+🔗 https://bugbountyforum.com/
 
-🔗 https://www.bugbountyhunting.com/
+### bugbounty.forum - Anonymous Forum for Bug Bounty Hunters
+
+🔗 https://bugbounty.forum/
 
 ---
 
 ## Tools
 
 ### Bug Bounty Tools Directory
-
-Directory of bug bounty and penetration testing tools.
 
 🔗 https://pwnsuite.com/
 
