@@ -1,6 +1,14 @@
 # bug-bounty-resources
 🐞 Curated collection of bug bounty resources, tools, guides, reports, and program directories.
 
+## Roadmap
+
+### Bitten Tech - Bug Bounty Beginner's Roadmap
+
+🔗 https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap
+
+---
+
 ## Learning Resources
 
 ### VeryLazyTech Hacking Guide
