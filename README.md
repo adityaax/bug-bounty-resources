@@ -15,6 +15,10 @@
 
 🔗 https://portswigger.net/web-security
 
+### APIsec University
+
+🔗 https://www.apisecuniversity.com/
+
 ---
 
 ## 🔥 Learning Resources
