@@ -1,7 +1,7 @@
 # bug-bounty-resources
 🐞 Curated collection of bug bounty resources, tools, guides, reports, and program directories.
 
-## Roadmap
+## 🔥 Roadmap
 
 ### Bitten Tech - Bug Bounty Beginner's Roadmap
 
@@ -9,7 +9,15 @@
 
 ---
 
-## Learning Resources
+## 🔥 Free Training & Labs
+
+### Web Security Academy: Free Online Training from PortSwigger
+
+🔗 https://portswigger.net/web-security
+
+---
+
+## 🔥 Learning Resources
 
 ### VeryLazyTech Hacking Guide
 
@@ -25,7 +33,7 @@
 
 ---
 
-## Bug Reports & Research
+## 🔥 Bug Reports & Research
 
 ### Bugreader
 
@@ -41,7 +49,7 @@
 
 ---
 
-## Bug Bounty Program Directories
+## 🔥 Bug Bounty Program Directories
 
 ### Bug Bounty Directory
 
@@ -53,7 +61,7 @@
 
 ---
 
-## Search & Recon
+## 🔥 Search & Recon
 
 ### Deep Google Search - Bug Bounty
 
@@ -61,7 +69,7 @@
 
 ---
 
-## Bug Bounty Forums
+## 🔥 Bug Bounty Forums
 
 ### Bug Bounty Forum
 
@@ -73,7 +81,7 @@
 
 ---
 
-## Tools
+## 🔥 Tools
 
 ### Bug Bounty Tools Directory
 
