@@ -35,6 +35,10 @@
 
 🔗 https://hacktricks.wiki/en/index.html
 
+### The Bug Bounty Playbook
+
+🔗 https://bugbounty.info/
+
 ---
 
 ## 🔥 Bug Reports & Research
