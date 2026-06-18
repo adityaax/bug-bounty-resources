@@ -69,6 +69,14 @@
 
 ---
 
+## 🔥 Bug Bounty Checklists
+
+### Bug Bounty Checklist — The Complete Security Testing Playbook
+
+🔗 https://checklist.hackwithsingh.com/
+
+---
+
 ## 🔥 Search & Recon
 
 ### Deep Google Search - Bug Bounty
