@@ -19,6 +19,10 @@
 
 🔗 https://www.apisecuniversity.com/
 
+### API Security Champion – Learn & Practice API Security
+
+🔗 https://app.apisecuritychampion.com/
+
 ---
 
 ## 🔥 Learning Resources
