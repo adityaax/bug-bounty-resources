@@ -71,6 +71,10 @@
 
 🔗 https://bug-bounties.as93.net/
 
+### The Bug Bounty Radar
+
+🔗 https://bbradar.io/
+
 ---
 
 ## 🔥 Bug Bounty Checklists
