@@ -59,6 +59,10 @@
 
 🔗 https://www.bugbountyhunting.com/
 
+### Unique Bugs, Chains & Bypasses
+
+🔗 https://github.com/adityaax/unique-bugs-chains-and-bypasses
+
 ---
 
 ## 🔥 Bug Bounty Program Directories
