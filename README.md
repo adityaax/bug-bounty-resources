@@ -43,6 +43,10 @@
 
 🔗 https://bugbounty.info/
 
+### Security Cipher
+
+🔗 https://securitycipher.com/
+
 ---
 
 ## 🔥 Bug Reports & Research
@@ -114,6 +118,22 @@
 ### Bug Bounty Tools Directory
 
 🔗 https://pwnsuite.com/
+
+---
+
+## 🔥 Discord Groups
+
+### Security Cipher
+
+🔗 https://discord.gg/C5qSP77kS3
+
+---
+
+## 🔥 Telegram Groups
+
+### The Bug Bounty Hunter
+
+🔗 https://t.me/thebugbountyhunter
 
 ---
 
